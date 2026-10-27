@@ -1,0 +1,13 @@
+# ملفات الفيديو
+*.mp4
+*.avi
+*.mkv
+
+# أوزان الموديلات
+*.pt
+*.onnx
+
+# مجلدات مؤقتة
+runs/
+__pycache__/
+.ipynb_checkpoints/
